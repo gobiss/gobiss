@@ -11,7 +11,7 @@ Atualmente, meu foco está no ecossistema **React** e no desenvolvimento de apli
 ### 🎖️ Sobre Mim & Diferenciais
 
 * 🎓 **Formação:** Reta final em Análise e Desenvolvimento de Sistemas.
-* 🪖 **Background Militar:** Atuei como **Monitor no Exército Brasileiro (Tiro de Guerra)**. Essa experiência me forjou uma disciplina rígida, liderança prática e capacidade de trabalhar sob pressão — soft skills que aplico hoje na organização do meu código e cumprimento de prazos.
+* 💀 **Background Militar:** Atuei como **Monitor no Exército Brasileiro (Tiro de Guerra)**. Essa experiência me forjou uma disciplina rígida, liderança prática e capacidade de trabalhar sob pressão — soft skills que aplico hoje na organização do meu código e cumprimento de prazos.
 * 🚀 **Foco:** Criação de interfaces (UI) responsivas e integração com APIs.
 
 ---
