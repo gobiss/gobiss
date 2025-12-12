@@ -47,19 +47,8 @@ Atualmente, meu foco está no ecossistema **React** e no desenvolvimento de apli
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula"/>
-  </a>
-</div>
-
----
-
 ### 📫 Contato
 
-<a href="https://www.linkedin.com/in/seu-perfil/" target="_blank">
+<a href="https://www.linkedin.com/in/vin%C3%ADcius-gobis-novo-2614a1315/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
